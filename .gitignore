@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Saxon / Java build artifacts
+*.jar
+*.class
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Large scanned images / PDFs (host these elsewhere, e.g. Zenodo or link to archive)
+# Comment out these lines if you DO want to include facsimile PDFs in the repo
+# *.pdf
+
+# Auto-generated outputs (regenerate from XML source)
+# Uncomment if you prefer not to track the HTML output
+# *.html
