@@ -1,4 +1,4 @@
-# Similarity Search — Interactive Learning Unit
+# Similarity Search: Interactive Learning Unit
 
 An interactive tutorial and implementation guide for the **Similarity Search** feature on the [Sehen Lernen platform](https://sehenlernen.uni-goettingen.de), developed for the M.A. Digital Humanities programme at Georg-Augustus-Universität Göttingen.
 
