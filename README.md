@@ -28,19 +28,19 @@ The interactive HTML prototype simulates the full learning experience across 5 t
 
 The tutorial is structured across 5 tabs, following a Concept → Method → Metrics → Practice → Evaluation arc:
 
-**Tab 1 — Concept: What Is Similarity Search?**  
+**Tab 1 - Concept: What Is Similarity Search?**  
 Feature vectors, the library analogy, Human vs Computer Vision comparison table, Single vs All and Pairwise search modes. Basic + Advanced tracks.
 
-**Tab 2 — Feature Methods**  
+**Tab 2 - Feature Methods**  
 Five methods compared: CNN, HOG, SIFT, Histogram, Manuscript. Decision tree for method selection. Challenge: Breaking CNN.
 
-**Tab 3 — Distance Metrics**  
+**Tab 3 - Distance Metrics**  
 Cosine, Euclidean, Manhattan distances. Interactive metric explorer. Key rule: scores are always relative to the dataset.
 
-**Tab 4 — Practical Exercises**  
+**Tab 4 - Practical Exercises**  
 Three exercises (Basic × 2, Advanced × 1) with dataset, task, and evaluation criteria specified. Includes the "Can You Beat the Algorithm?" and "The Manuscript Hunt" challenges.
 
-**Tab 5 — Case Study: Early Expressionism**  
+**Tab 5 - Case Study: Early Expressionism**  
 Research question: do male and female Expressionist painters (1900–1920) produce visually distinguishable portrait styles under CNN and HOG? Dataset: 60 paintings from WikiArt.org, 6 artists, 10 portraits each. Three hypotheses tested: gender clustering (H1), contour divergence (H2), nationality as outlier factor (H3).
 
 ---
@@ -84,7 +84,7 @@ Applied professor feedback (Feb 24, 2026): consistent Concept → Method → Met
 
 ## Author
 
-**Rocío Castro Pinto**  
+**Rocio Castro Pinto**  
 M.A. Digital Humanities (Computational Social Sciences)  
 Georg-Augustus-Universität Göttingen · WiSe 2025/26  
 [linkedin.com/in/rociocastropinto](https://linkedin.com/in/rociocastropinto)
